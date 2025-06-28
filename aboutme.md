@@ -6,7 +6,7 @@ subtitle: Learning how to hack things, so I can help fix them.
 
 I started in education and eventually found my way into tech — not because I was chasing buzzwords, but because I really like understanding how things work.
 
-Right now, I’m on a mission:
+Right now, I’m on a mission:  
 ✓ Pass the CompTIA trifecta (A+, Network+, Security+)  
 ✓ Build and break stuff in my home lab  
 ✓ Sharpen my skills through CTFs  
