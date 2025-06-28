@@ -22,7 +22,6 @@ author: Maxime Siffert
 navbar-links:
   About Me: "aboutme"
   Blog: "blog"
-  Portfolio: "portfolio"
   Author's home: "https://github.com/siffertm"
 
 ################
@@ -80,7 +79,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: fasle
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
@@ -104,7 +103,7 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -284,6 +283,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# By a hacker for hackers
 # 2fc73a3a967e97599c9763d05e564189
 
