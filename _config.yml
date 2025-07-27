@@ -22,7 +22,6 @@ author: Maxime Siffert
 navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
-  Articles: "/_post/articles"
   Author's home: "https://github.com/siffertm"
 
 ################
