@@ -2,8 +2,8 @@
 layout: post
 title: Why Cybersecurity Professionals Burn Out (And How to Build a Learning System That Works)
 cover-img: 
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img:
+share-img:
 tags: [certification, CompTIA a+ core 1]
 author: Maxime Siffert
 ---
