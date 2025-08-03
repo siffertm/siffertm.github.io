@@ -3,7 +3,7 @@ layout: post
 title: Why I Pursued CompTIA A+ Despite Everyone Saying It's Not Useful
 cover-img: 
 thumbnail-img:
-share-img: /assets/img/path.jpg
+share-img:
 tags: [certification, CompTIA a+ core 1]
 author: Maxime Siffert
 ---
