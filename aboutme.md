@@ -47,4 +47,4 @@ Because at the end of the day, you are your own best firewall. I'm learning how 
 
 ---
 
-*Follow my journey from coach to cybersecurity professional. Currently studying: CompTIA A+ Core 2*
+*Follow my journey from coach to cybersecurity professional. Currently studying: CompTIA Network+*
